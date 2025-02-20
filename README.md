@@ -1,7 +1,9 @@
-# CPE-313---CPE32S3
+# Computer Vision Crash Course
 
-Good Day! This repository you are viewing is the creation of John Martin Cabacungan, a CPE student that is currently in his 3rd Year in college.
+![Purple and White Simple Page Border Double-Sided Poster A3 Landscape](https://github.com/user-attachments/assets/f9f63ecb-62c5-4b39-9202-70c9c560da07)
 
-This repository consists of his tasks created and working in a subject called CPE 313 Advanced Machine Learning and Deep Learning. 
+Consists of an Interactive Python Notebook of the Basics of Computer Vision 
 
-For todays video his instructor instructed the student to perform activities based on Computer Vision which he didn't took from his EmTech 1.
+A sample of one of them
+
+![Images](https://github.com/user-attachments/assets/0750b940-3d84-4cfa-adec-cf2b9316f9c4)
